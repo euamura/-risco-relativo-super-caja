@@ -3,6 +3,7 @@
 ## Links de apresentação:
 
 - [https://lookerstudio.google.com/reporting/173aef6d-66e5-4f47-b7a5-673459f34794](https://lookerstudio.google.com/reporting/173aef6d-66e5-4f47-b7a5-673459f34794)
+- https://www.loom.com/share/098dd33d3aa6404f89713e53288cc549?sid=02c68f09-3036-4234-b414-eebd74e88df8
 
 - Introdução
     
